@@ -7,7 +7,7 @@ using this methedology in addition to studying for the exam. Since
 Github offers **private repo's for free** you can feel confident about
 the ownership of your study notes. Lastly, having a Table of Contents
 while reviewing your notes allows you to pick up where you left off. 
-down  
+
 
 ### Instructions  
 - Clone this [repo](https://github.com/bfernando1/devnet-skeleton.git) 
