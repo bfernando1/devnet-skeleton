@@ -17,8 +17,8 @@ while reviewing your notes allows you to pick up where you left off.
 ### Example of Use 
 
     ## 2.9 Construct a Python script that calls a REST API using the request library
-    ```python
-    import requests
+```python
+import requests
 
-    print(f"Good luck on the devnet {associate} exam!"}
-    ```
+print(f"Good luck on the devnet {associate} exam!"}
+```
