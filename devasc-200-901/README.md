@@ -7,12 +7,11 @@ using this methedology in addition to studying for the exam. Since
 Github offers **private repo's for free** you can feel confident about
 the ownership of your study notes. Lastly, having a Table of Contents
 while reviewing your notes allows you to pick up where you left off. 
+down  
 
-### Benefits 
-- Master [vim/vi](https://vim-adventures.com/) skillset 
-- Excercise git commands 
-- Practice writing in markdown  
-
+### Instructions  
+- Clone this [repo](https://github.com/bfernando1/devnet-skeleton.git) 
+- Open each file and fill in the topics with your own findings 
 
 ### Example of Use 
 
@@ -22,3 +21,8 @@ import requests
 
 print(f"Good luck on the devnet {associate} exam!"}
 ```
+
+### Benefits 
+- Master [vim/vi](https://vim-adventures.com/) skillset 
+- Excercise git commands 
+- Practice writing in markdown
