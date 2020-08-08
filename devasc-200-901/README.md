@@ -13,7 +13,8 @@ while reviewing your notes allows you to pick up where you left off.
 ### Instructions  
 
 - Clone this [repo][repo]
-- Open each file and fill in the topics with your own findings 
+- Open each exam topic file and fill in your notes under the
+  headings
 
 ### Example of Use 
 
@@ -34,3 +35,4 @@ print(f"Good luck on the devnet {associate} exam!"}
 <!-- Links -->
 [repo]: https://github.com/bfernando1/devnet-skeleton.git
 [vim]: https://vim-adventures.com/
+
